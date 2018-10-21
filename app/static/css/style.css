@@ -373,13 +373,6 @@ a {
 	padding: 10px 25px;
 }
 
-.btn.btn-donate {
-	background-color: #99DEAB;
-	color: #FFF;
-	font-size: 17px;
-	font-weight: 600;
-	padding: 10px 25px;
-}
 .btn.btn-launch:hover, .btn.btn-launch:focus,.btn.btn-reward, .btn.btn-reward:hover, .btn.btn-reward :focus {
 	background-color:#85AD90;
 	box-shadow:none;
