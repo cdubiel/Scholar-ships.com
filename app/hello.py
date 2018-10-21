@@ -14,7 +14,7 @@ def index():
 def hello():
     return 'Hello, World!'
 
-@app.route('/profile')
-def profile():
-	return 'Profile Page'
+@app.route('/donate')
+def donate():
+	return render_template('donation.html')
 
