@@ -13,3 +13,8 @@ def index():
 @app.route('/hello')
 def hello():
     return 'Hello, World!'
+
+@app.route('/profile')
+def profile():
+	return 'Profile Page'
+
