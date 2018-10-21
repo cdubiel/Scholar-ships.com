@@ -205,6 +205,16 @@ a {
 	text-align:right;
 	display: block;
 }
+
+/*-Donate form-*/
+.donate-form {
+	text-align: left;
+}
+/*.donate-form p {
+	font-weight:700;
+	color:#fff;
+}*/
+
 .count-down {
 	display: block;
 	color: #A7A7A7;
@@ -356,6 +366,14 @@ a {
 	border:0;
 }
 .btn.btn-launch {
+	background-color: #99DEAB;
+	color: #FFF;
+	font-size: 17px;
+	font-weight: 600;
+	padding: 10px 25px;
+}
+
+.btn.btn-donate {
 	background-color: #99DEAB;
 	color: #FFF;
 	font-size: 17px;
